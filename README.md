@@ -2,6 +2,9 @@
 
 This runs logistic regression over the mnist dataset.
 
+
+## Running
+
 To run normal logistic regression (using `torch.nn.linear`) execute:
 
 ```
